@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\bin\Debug\swap numbers.exe.config
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\bin\Debug\swap numbers.exe
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\bin\Debug\swap numbers.pdb
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\obj\Debug\swap numbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\obj\Debug\swap numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\obj\Debug\swap numbers.exe
+C:\Users\user\Desktop\.net\swap numbers\swap numbers\obj\Debug\swap numbers.pdb
