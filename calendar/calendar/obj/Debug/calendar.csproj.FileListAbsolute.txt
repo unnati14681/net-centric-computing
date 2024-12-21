@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\calendar\calendar\bin\Debug\calendar.exe.config
+C:\Users\user\source\repos\calendar\calendar\bin\Debug\calendar.exe
+C:\Users\user\source\repos\calendar\calendar\bin\Debug\calendar.pdb
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.Form1.resources
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.Properties.Resources.resources
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.csproj.GenerateResource.cache
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.exe
+C:\Users\user\source\repos\calendar\calendar\obj\Debug\calendar.pdb
